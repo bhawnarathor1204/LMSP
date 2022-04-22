@@ -23,7 +23,12 @@ namespace LibraryManagementProject.LibraryMs.InterfaceImpl
         /*private List<BookResponseDo> filterHelper(string filterType)
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
             List<BookResponseDo> bookDetails = getBooks();
+=======
+            BookImpl bookImpl = new BookImpl(); 
+            List<BookResponseDo> bookDetails = bookImpl.getbookDetails();
+>>>>>>> 96878cf (after rectifying error)
 =======
             BookImpl bookImpl = new BookImpl(); 
             List<BookResponseDo> bookDetails = bookImpl.getbookDetails();
