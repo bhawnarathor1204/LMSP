@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nishchhal Prajapat\\Source\\Repos\\LibraryManagementSystem\\LibraryManagementProject\\LibraryManagementProject.csproj": {}
+    "C:\\Users\\Bhawna Rathor\\source\\repos\\LibraryManagementProject\\LibraryManagementProject\\LibraryManagementProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nishchhal Prajapat\\Source\\Repos\\LibraryManagementSystem\\LibraryManagementProject\\LibraryManagementProject.csproj": {
+    "C:\\Users\\Bhawna Rathor\\source\\repos\\LibraryManagementProject\\LibraryManagementProject\\LibraryManagementProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nishchhal Prajapat\\Source\\Repos\\LibraryManagementSystem\\LibraryManagementProject\\LibraryManagementProject.csproj",
+        "projectUniqueName": "C:\\Users\\Bhawna Rathor\\source\\repos\\LibraryManagementProject\\LibraryManagementProject\\LibraryManagementProject.csproj",
         "projectName": "LibraryManagementProject",
-        "projectPath": "C:\\Users\\Nishchhal Prajapat\\Source\\Repos\\LibraryManagementSystem\\LibraryManagementProject\\LibraryManagementProject.csproj",
-        "packagesPath": "C:\\Users\\Nishchhal Prajapat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nishchhal Prajapat\\Source\\Repos\\LibraryManagementSystem\\LibraryManagementProject\\obj\\",
+        "projectPath": "C:\\Users\\Bhawna Rathor\\source\\repos\\LibraryManagementProject\\LibraryManagementProject\\LibraryManagementProject.csproj",
+        "packagesPath": "C:\\Users\\Bhawna Rathor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Bhawna Rathor\\source\\repos\\LibraryManagementProject\\LibraryManagementProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Nishchhal Prajapat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Bhawna Rathor\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

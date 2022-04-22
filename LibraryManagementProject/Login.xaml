@@ -33,8 +33,7 @@
 
                     <TextBox.RenderTransform>
                         <TransformGroup>
-                            <ScaleTransform ScaleY="-1"/>
-                            <SkewTransform/>
+
                             <RotateTransform/>
                             <TranslateTransform/>
                         </TransformGroup>

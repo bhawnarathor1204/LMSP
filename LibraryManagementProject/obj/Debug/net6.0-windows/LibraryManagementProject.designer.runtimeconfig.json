@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Nishchhal Prajapat\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Nishchhal Prajapat\\.nuget\\packages"
+      "C:\\Users\\Bhawna Rathor\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Bhawna Rathor\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true

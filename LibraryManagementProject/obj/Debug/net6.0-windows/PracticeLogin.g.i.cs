@@ -53,7 +53,7 @@ namespace LibraryManagementProject {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LibraryManagementProject;V1.0.0.0;component/practicelogin.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LibraryManagementProject;component/practicelogin.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\PracticeLogin.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

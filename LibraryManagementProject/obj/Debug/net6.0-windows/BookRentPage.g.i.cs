@@ -53,7 +53,7 @@ namespace LibraryManagementProject {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LibraryManagementProject;V1.0.0.0;component/bookrentpage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LibraryManagementProject;component/bookrentpage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\BookRentPage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

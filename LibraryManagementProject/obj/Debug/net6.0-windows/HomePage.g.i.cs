@@ -93,7 +93,7 @@ namespace LibraryManagementProject {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/LibraryManagementProject;V1.0.0.0;component/homepage.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/LibraryManagementProject;component/homepage.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\HomePage.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
