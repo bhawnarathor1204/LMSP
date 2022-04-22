@@ -13,15 +13,25 @@ namespace LibraryManagementProject.LibraryMs.InterfaceImpl
         public BookResponseDo searchBar(string str)
         {
             BookResponseDo bookResponse = new BookResponseDo();
+<<<<<<< HEAD
             /*List<BookResponseDo> allBooks = getBooks();   
            foreach (BookResponseDo bookResponseDo in allBooks)
+=======
+            BookImpl bookImpl = new BookImpl();
+            List<BookResponseDo> allBooks = bookImpl.getbookDetails();
+            foreach (BookResponseDo bookResponseDo in allBooks)
+>>>>>>> 96878cf (after rectifying error)
             {
                 if (str.ToLower() == bookResponseDo.BookName.ToLower())
                 {
                     return bookResponseDo;
                 }
             }
+<<<<<<< HEAD
            bookResponse.BookName = "book not found";*/
+=======
+            bookResponse.BookName = "book not found";
+>>>>>>> 96878cf (after rectifying error)
             return bookResponse;
         }
         
